@@ -6,7 +6,7 @@ In this practice, we will be implementing a queue using TWOSTACK object.
 
 <br><hr>
 
-## The Problem - Part 1
+## The Problem - Part 1 (4 points)
 
 <b>Write a class called TWOSTACK that uses python list to implement two stacks sharing the same python list. The class has following methods. Implement each of these methods.</b><br>
 <br>
@@ -25,7 +25,7 @@ In this practice, we will be implementing a queue using TWOSTACK object.
 
 <br><hr>
 
-## The Problem - Part 2
+## The Problem - Part 2 (4 points)
 
 <b>Write a class called QUEUE that uses instance of TWOSTACK class. The class also implements the following methods.</b><br>
 <br>
@@ -38,6 +38,6 @@ In this practice, we will be implementing a queue using TWOSTACK object.
 
 <br><hr>
 
-## The Problem - Part 3
+## The Problem - Part 3 (2 points)
 
 <b>Write a driver code to test your implementation and show that it is working for different scenarios.</b><br>
